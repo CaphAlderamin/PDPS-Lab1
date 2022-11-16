@@ -1,0 +1,145 @@
+Select the task number
+1 - First task / 2 - Second task / 3 - exit from programm
+1
+Series: 1e+10
+Thread number: 6
+Repeats number: 10
+
+============== Repeat 0 ==============
+Thread   24440 is stopped calculating
+Thread    3568 is stopped calculating
+Thread   10128 is stopped calculating
+Thread     960 is stopped calculating
+Thread    4620 is stopped calculating
+Thread    5760 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 1 ==============
+Thread   11840 is stopped calculating
+Thread    7444 is stopped calculating
+Thread   23424 is stopped calculating
+Thread   13124 is stopped calculating
+Thread   13356 is stopped calculating
+Thread   18048 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 2 ==============
+Thread   12652 is stopped calculating
+Thread    1228 is stopped calculating
+Thread    6672 is stopped calculating
+Thread   23952 is stopped calculating
+Thread   23100 is stopped calculating
+Thread   17556 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 3 ==============
+Thread    2952 is stopped calculating
+Thread   23084 is stopped calculating
+Thread   16100 is stopped calculating
+Thread    5744 is stopped calculating
+Thread   25128 is stopped calculating
+Thread   18436 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 4 ==============
+Thread    6996 is stopped calculating
+Thread   16812 is stopped calculating
+Thread   14508 is stopped calculating
+Thread   10452 is stopped calculating
+Thread   14852 is stopped calculating
+Thread   24388 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 5 ==============
+Thread    8932 is stopped calculating
+Thread   19852 is stopped calculating
+Thread   10952 is stopped calculating
+Thread   23852 is stopped calculating
+Thread   15688 is stopped calculating
+Thread   25028 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 6 ==============
+Thread   24292 is stopped calculating
+Thread   19176 is stopped calculating
+Thread   10188 is stopped calculating
+Thread    4984 is stopped calculating
+Thread   23388 is stopped calculating
+Thread   20224 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 7 ==============
+Thread   21236 is stopped calculating
+Thread   17764 is stopped calculating
+Thread    1112 is stopped calculating
+Thread   18828 is stopped calculating
+Thread   15124 is stopped calculating
+Thread    7860 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 8 ==============
+Thread   10048 is stopped calculating
+Thread   11204 is stopped calculating
+Thread   23440 is stopped calculating
+Thread   14160 is stopped calculating
+Thread     872 is stopped calculating
+Thread   22356 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+
+============== Repeat 9 ==============
+Thread   10360 is stopped calculating
+Thread   12244 is stopped calculating
+Thread   16508 is stopped calculating
+Thread   12556 is stopped calculating
+Thread   24388 is stopped calculating
+Thread    1104 is stopped calculating
+Result of several threads calculation: 5e+19
+Thread   15744 is stopped calculating
+Result of one thread calculation: 5e+19
+=====================================
+
+All several threads calculation times:
+5.8512
+6.14991
+5.8567
+5.91444
+6.10174
+5.77661
+6.50727
+5.70569
+5.8529
+6.09485
+General time of several threads calculation: 59.8113
+Average time of several threads calculation: 5.98113
+
+All one thread calculation times:
+33.1165
+33.002
+33.0722
+33.0089
+32.7824
+33.0232
+32.8033
+32.8394
+32.8398
+32.8005
+General time of one thread calculation 329.288
+Average time of one thread calculation 32.9288

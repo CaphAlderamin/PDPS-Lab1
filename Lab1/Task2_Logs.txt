@@ -1,0 +1,215 @@
+Select the task number
+1 - First task / 2 - Second task / 3 - exit from programm
+2
+Dimension: 2048
+Thread number: 6
+Repeats number: 10
+
+============== Repeat 0 ==============
+Thread   14608 is stopped calculating
+Thread   23168 is stopped calculating
+Thread    5008 is stopped calculating
+Thread    6904 is stopped calculating
+Thread   13816 is stopped calculating
+Thread   25200 is stopped calculating
+
+9 4 2 6    9 8 6 4    41370 41964 40908 40844
+4 8 4 4    4 4 8 0    41081 41606 41124 41939
+5 6 0 8    7 2 4 4    41623 40888 40679 41310
+1 6 0 1    3 2 4 7    42065 42333 41625 41738
+
+9 4 2 6    9 8 6 4    41370 41964 40908 40844
+4 8 4 4    4 4 8 0    41081 41606 41124 41939
+5 6 0 8    7 2 4 4    41623 40888 40679 41310
+1 6 0 1    3 2 4 7    42065 42333 41625 41738
+
+============== Repeat 1 ==============
+Thread   16616 is stopped calculating
+Thread    8260 is stopped calculating
+Thread    7784 is stopped calculating
+Thread    8176 is stopped calculating
+Thread   13800 is stopped calculating
+Thread   24836 is stopped calculating
+
+1 4 0 0    3 8 4 8    40480 40924 41226 40360
+6 0 2 8    8 4 6 4    40665 40652 40502 40907
+7 6 8 2    9 2 2 0    41409 41042 41051 40984
+5 6 8 5    5 2 4 1    41231 41669 41531 41408
+
+1 4 0 0    3 8 4 8    40480 40924 41226 40360
+6 0 2 8    8 4 6 4    40665 40652 40502 40907
+7 6 8 2    9 2 2 0    41409 41042 41051 40984
+5 6 8 5    5 2 4 1    41231 41669 41531 41408
+
+============== Repeat 2 ==============
+Thread   22256 is stopped calculating
+Thread   15960 is stopped calculating
+Thread   13968 is stopped calculating
+Thread   21476 is stopped calculating
+Thread   14116 is stopped calculating
+Thread    1536 is stopped calculating
+
+5 4 8 6    7 0 4 2    39954 40822 40456 39920
+0 0 0 2    2 6 6 0    41055 41014 41452 41049
+1 8 8 6    3 2 2 4    40927 41470 40997 40742
+7 6 8 9    9 2 2 7    42145 42551 42135 42304
+
+5 4 8 6    7 0 4 2    39954 40822 40456 39920
+0 0 0 2    2 6 6 0    41055 41014 41452 41049
+1 8 8 6    3 2 2 4    40927 41470 40997 40742
+7 6 8 9    9 2 2 7    42145 42551 42135 42304
+
+============== Repeat 3 ==============
+Thread   14408 is stopped calculating
+Thread   18780 is stopped calculating
+Thread    8248 is stopped calculating
+Thread    7368 is stopped calculating
+Thread    6024 is stopped calculating
+Thread   21216 is stopped calculating
+
+7 4 8 0    9 0 2 8    40974 41998 41980 41128
+2 0 0 6    4 6 4 4    40605 40794 40226 40043
+5 8 6 0    5 4 0 8    41389 41478 41879 41522
+1 8 6 3    1 2 0 1    40535 41001 40883 40966
+
+7 4 8 0    9 0 2 8    40974 41998 41980 41128
+2 0 0 6    4 6 4 4    40605 40794 40226 40043
+5 8 6 0    5 4 0 8    41389 41478 41879 41522
+1 8 6 3    1 2 0 1    40535 41001 40883 40966
+
+============== Repeat 4 ==============
+Thread   24776 is stopped calculating
+Thread   16224 is stopped calculating
+Thread   14388 is stopped calculating
+Thread   21232 is stopped calculating
+Thread   20968 is stopped calculating
+Thread   25180 is stopped calculating
+
+1 6 6 4    3 0 0 2    41144 41388 41682 41462
+6 0 8 2    8 6 2 8    41257 40550 41746 41321
+7 8 4 6    9 4 8 2    42081 41818 42709 42382
+3 8 4 9    5 4 8 5    41793 41963 41933 41792
+
+1 6 6 4    3 0 0 2    41144 41388 41682 41462
+6 0 8 2    8 6 2 8    41257 40550 41746 41321
+7 8 4 6    9 4 8 2    42081 41818 42709 42382
+3 8 4 9    5 4 8 5    41793 41963 41933 41792
+
+============== Repeat 5 ==============
+Thread   12532 is stopped calculating
+Thread   15604 is stopped calculating
+Thread    9856 is stopped calculating
+Thread   18688 is stopped calculating
+Thread   24648 is stopped calculating
+Thread   15688 is stopped calculating
+
+3 6 4 0    5 0 8 6    41112 41908 41828 42282
+0 2 6 6    0 6 0 4    39377 40068 40864 40303
+1 8 2 0    1 4 6 8    41143 40322 40721 41084
+7 8 2 3    9 4 8 1    40927 42021 41785 41728
+
+3 6 4 0    5 0 8 6    41112 41908 41828 42282
+0 2 6 6    0 6 0 4    39377 40068 40864 40303
+1 8 2 0    1 4 6 8    41143 40322 40721 41084
+7 8 2 3    9 4 8 1    40927 42021 41785 41728
+
+============== Repeat 6 ==============
+Thread    1088 is stopped calculating
+Thread   19104 is stopped calculating
+Thread   25240 is stopped calculating
+Thread    4640 is stopped calculating
+Thread    7288 is stopped calculating
+Thread   19400 is stopped calculating
+
+7 6 2 4    9 2 6 2    41060 41508 41432 41190
+2 2 4 0    4 8 0 8    41823 42560 42152 41549
+3 0 2 4    5 4 6 2    40631 41630 41777 40986
+9 0 2 7    1 4 6 5    41725 42207 42255 42202
+
+7 6 2 4    9 2 6 2    41060 41508 41432 41190
+2 2 4 0    4 8 0 8    41823 42560 42152 41549
+3 0 2 4    5 4 6 2    40631 41630 41777 40986
+9 0 2 7    1 4 6 5    41725 42207 42255 42202
+
+============== Repeat 7 ==============
+Thread   20396 is stopped calculating
+Thread   24680 is stopped calculating
+Thread   16932 is stopped calculating
+Thread   21548 is stopped calculating
+Thread   24016 is stopped calculating
+Thread   15124 is stopped calculating
+
+1 6 2 8    1 2 6 6    40612 41036 40430 41466
+6 2 4 6    8 8 8 2    41479 41480 41508 41161
+7 0 0 0    9 6 4 6    40979 41012 40707 41364
+3 0 0 3    5 4 4 9    40751 40259 40159 40812
+
+1 6 2 8    1 2 6 6    40612 41036 40430 41466
+6 2 4 6    8 8 8 2    41479 41480 41508 41161
+7 0 0 0    9 6 4 6    40979 41012 40707 41364
+3 0 0 3    5 4 4 9    40751 40259 40159 40812
+
+============== Repeat 8 ==============
+Thread Thread   18340 is stopped calculating
+25096 is stopped calculating
+Thread   23352 is stopped calculating
+Thread   24768 is stopped calculating
+Thread    1088 is stopped calculating
+Thread    2528 is stopped calculating
+
+3 8 0 2    5 2 4 0    41174 41166 41888 41964
+8 2 2 0    0 8 6 6    39543 40032 40718 40655
+9 0 8 4    1 6 2 2    41045 40638 39761 41116
+7 0 8 7    7 6 2 3    41481 41875 41893 41616
+
+3 8 0 2    5 2 4 0    41174 41166 41888 41964
+8 2 2 0    0 8 6 6    39543 40032 40718 40655
+9 0 8 4    1 6 2 2    41045 40638 39761 41116
+7 0 8 7    7 6 2 3    41481 41875 41893 41616
+
+============== Repeat 9 ==============
+Thread   16224 is stopped calculating
+Thread   22960 is stopped calculating
+Thread   16800 is stopped calculating
+Thread   11216 is stopped calculating
+Thread   15536 is stopped calculating
+Thread    8752 is stopped calculating
+
+7 8 8 8    9 2 2 4    40998 41670 42262 41662
+2 4 0 4    4 8 4 2    39457 40386 40744 40017
+3 0 6 8    5 6 0 6    40881 42100 41935 41294
+9 0 6 1    1 6 2 9    40745 41749 42123 41228
+
+7 8 8 8    9 2 2 4    40998 41670 42262 41662
+2 4 0 4    4 8 4 2    39457 40386 40744 40017
+3 0 6 8    5 6 0 6    40881 42100 41935 41294
+9 0 6 1    1 6 2 9    40745 41749 42123 41228
+=====================================
+
+All several threads calculation times:
+12.1589
+12.5824
+11.1136
+11.2132
+11.0092
+11.3813
+11.1496
+11.6335
+12.4578
+11.528
+General time of several threads calculation    116.228
+Average time of several threads calculation    11.6228
+
+All one thread calculation times:
+63.8327
+63.9358
+61.727
+62.1317
+60.7138
+63.9434
+63.8164
+63.7049
+64.282
+64.6177
+General time of one thread calculation 632.705
+Average time of one thread calculation 63.2705
